@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "//examplesite.org"
+baseURL = "//jacobsforboe.netlify.app"
 title = "Pamela Young-Jacobs for Columbus County Board of Visitors"
 theme = "airspace-hugo"
 # post pagination
