@@ -1,0 +1,106 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/leadership.jpg"
+  bg_overlay : true
+  title : "Pamela Young-Jacobs <br/> for Columbus County Board of Education"
+  content : "I believe in our school system. From initiating trade skills to STEM programs through partnerships with organizations and universities my vision is inclusive of every student whether they are college bound or headed to the workforce."
+  button:
+    enable : true
+    label : "Learn more about me"
+    link : "project"
+
+############################# About #################################
+about:
+  enable : true
+  title : "My Education Story"
+  description : "A short story about how teachers, parents, and administrators can make a real difference for our children."
+  content : "I decided to run for this seat because I believe in our school system. This system gave a little girl who was struggling, a chance to be something greater than her circumstances.  Ms. Lavendar was my very first teacher. Back then we had little mobile units at Hallsboro Elementary. She didn’t know that she was teaching a little girl who had been sexually abused. But she cared for her and showed her love daily. Ms. Sellers, Thurman and Ms. Betty Tyler didn’t know when she moved up to their class that sometimes her dad would drink too much and she didn’t sleep all night. When she got to high school Ms. Register didn’t know that she was contemplating suicide because she battled depression and neither did Ms. Morrison when she told her that one day she would run for a public office because she had a gift and Ms. Jordan became her life long friend. You see these amazing teachers changed her life, they saved her, they had faith in her and gave her confidence in herself. You may say that I shared too much but I say that we are living in a time that we need to be real in recognizing the struggles of our students and think outside the box to work with Administrators through policies and programs to support our teachers and meet our students where they are. I have a Godly passion for our students, that coupled with my experience in economic development, policy writing, business, healthcare and over 20 years of service to our students in various roles equips me to serve. I am not only a candidate but a mom who will never grow weary in working together with our teachers, parents and Administrators to secure better futures for our students, for you see I WAS THAT LITTLE GIRL whose life was changed by the teachers and faculty."
+  image : "images/leadership0.jpg"
+
+
+######################### Portfolio ###############################
+#portfolio:
+#  enable : true
+#  bg_image : "images/featue-bg.jpg"
+#  title : "WE BELIEVE IN GREAT IDEAS"
+#  content : "
+#  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+#
+#
+#  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+#
+#
+#  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+#  "
+#  button:
+#    enable : true
+#    label : "View Works"
+#    link : "project"
+
+
+############################# Service ############################
+#service:
+#  enable : true
+#  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "We design delightful digital experiences."
+  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  button:
+    enable : true
+    label : "Tell Us Your Story"
+    link : "contact"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "Fun Facts About Us"
+  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
+          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Cups Of Coffee"
+      count : "99"
+      
+    # funfacts item loop
+    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Article Written"
+      count : "45"
+      
+    # funfacts item loop
+    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Projects Completed"
+      count : "125"
+      
+    # funfacts item loop
+    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Combined Projects"
+      count : "200"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Raymond Roy"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Randi Renin"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Rose Rio"
+      image : "images/clients/avater-3.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
