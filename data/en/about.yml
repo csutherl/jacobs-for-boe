@@ -2,11 +2,14 @@
 about:
   enable : true
   image : "images/profile.jpg"
-  title : "I believe that we are Stronger Together."
-  content : "Pamela Young-Jacobs is a Columbus County native and member of the <a href=\"https://waccamaw-siouan.org\">Waccamaw Siouan Tribe of North Carolina</a>. She was born to a mother who was an activist for her community and teacher’s assistant and a father who was a construction worker who became a self-employed businessman. Her early years were spent in the tobacco field, bell pepper and cucumber field and in church with her grandmother.  She is the wife of Marine, Velton Jacobs, together they have six children and two grand- sons. She is the mother of a soldier who received a metal of honor for war time in Iraq. Pamela learned her strong work ethic and “never give up” attitude from her father. She takes pride in being the individual who isn’t afraid of hard work and does not make excuses when it comes to opportunities to do her best for a better future.
+  title : "I believe that we are Stronger Together"
+  content : "I am a Columbus County native and member of the <a href=\"https://waccamaw-siouan.org\">Waccamaw Siouan Tribe of North Carolina</a>. I was born to a mother who was an activist for her community and teacher’s assistant, and a father who was a construction worker who became a self-employed businessman. My early years were spent in the tobacco fields, bell pepper fields, cucumber fields, and in church with my grandmother.  I am the wife of Marine, Velton Jacobs, together we have six children and three grand-sons. I am the mother of a soldier who received the Metal of Honor for his time in Iraq. I learned to have a strong work ethic and “never give up” attitude from my father. I take pride in being the individual who isn’t afraid of hard work and does not make excuses when it comes to opportunities to do my best for a better future.
 <br/>
 <br/>
-She has devoted the last twenty years to the service of her community and the betterment of the people of this county with a concentration on the youth of not only her community but the youth in the surrounding counties. Her voice has reached across the nation bringing awareness to the needs of students and communities on issues including healthcare, education, infrastructure, collaborations for internet progression, collaborations with companies to help provide technical skills and jobs for those students not seeking higher education. She has served our youth over the years as Varsity Coach, youth leader, mentor, Sunday school, Youth Director,  community STEM project support team, church outreach and youth collaborations project leader, Christian athlete projects at East Columbus and leader for motivation and empowerment projects for students."
+I have devoted the last twenty years to the service of my community and the betterment of the people of this county with a concentration on the youth of not only my own community, but the youth in the surrounding counties. My voice has reached across the nation bringing awareness to the needs of students and communities on issues including healthcare, education, infrastructure, collaborations for internet progression, collaborations with companies to help provide technical skills and jobs for those students not seeking higher education. I have served our youth over the years as Varsity Coach, youth leader, mentor, Sunday school teacher, Youth Director, community STEM project support team, church outreach and youth collaborations project leader, Christian athlete projects at East Columbus and leader for motivation and empowerment projects for students.
+<br/>
+<br/>
+I have an associate degree in business and finance from Southeastern Community College, bachelor’s degree in interdisciplinary studies with concentration in professional studies from UNC Pembroke, current MBA student at UNCP. I will graduate from Institute of Political Leadership in Raleigh  on Nov 7. Various certifications."
 
 #  button:
 #    enable : true
@@ -123,6 +126,6 @@ She has devoted the last twenty years to the service of her community and the be
 
 
 ############################# call to action #################################
-#cta:
-#  enable : true
-#  # call to action content comes from "data/*/homepage.yml"
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"

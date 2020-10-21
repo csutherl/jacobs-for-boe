@@ -57,7 +57,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-logo_width = "150px"
+logo_width = "115px"
 # Meta data
 description = "Pamela Young-Jacobs for Columbus County Board of Education"
 author = "Pamela Young-Jacobs"
@@ -136,14 +136,14 @@ URL = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "About"
+name = "About Me"
 URL = "about"
 weight = 2
 
-#[[Languages.en.menu.main]]
-#name = "Issues"
-#URL = "project"
-#weight = 3
+[[Languages.en.menu.main]]
+name = "Why I'm Running"
+URL = "why-im-running"
+weight = 3
 
 #[[Languages.en.menu.main]]
 #name = "Volunteer"
@@ -158,14 +158,14 @@ weight = 5
 
 # footer menu
 [[Languages.en.menu.footer]]
-name = "About"
+name = "About Me"
 URL = "about"
 weight = 1
 
-#[[Languages.en.menu.footer]]
-#name = "Issues"
-#URL = "project"
-#weight = 2
+[[Languages.en.menu.footer]]
+name = "Why I'm Running"
+URL = "why-im-running"
+weight = 2
 
 #[[Languages.en.menu.footer]]
 #name = "Volunteer"

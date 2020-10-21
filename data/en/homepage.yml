@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_image : "images/leadership.jpg"
   bg_overlay : true
-  title : "Pamela Young-Jacobs <br/> for Columbus County Board of Education"
+  title : "Pamela Young-Jacobs <br/>for Columbus County Board of Education"
   content : "I believe in our school system. From initiating trade skills to STEM programs through partnerships with organizations and universities my vision is inclusive of every student whether they are college bound or headed to the workforce."
   button:
     enable : true
@@ -40,21 +40,21 @@ about:
 
 
 ############################# Service ############################
-#service:
-#  enable : true
-#  # service content comes from "data/*/service.yml" file
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
 
 
 ############################ call to action ###########################
-#cta:
-#  enable : true
-#  bg_image : "images/call-to-action-bg.jpg"
-#  title : "We design delightful digital experiences."
-#  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
-#  button:
-#    enable : true
-#    label : "Tell Us Your Story"
-#    link : "contact"
+cta:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "Why Am I Running?"
+  content : "I've outlined reasons why I'm running, what my qualifications for the board are, and what my top three priorities are. Click the button below to read more!"
+  button:
+    enable : true
+    label : "Read More"
+    link : "why-im-running"
 
 ############################# Funfacts ###############################
 #funfacts:

@@ -1,0 +1,46 @@
+############################# Service ###############################
+service:
+  enable : true
+  title : "Ways we can work together to HEAL our schools"
+  service_item:
+    # service item loop
+    - icon : ion-ribbon-a #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Honesty and Integrity
+      content: "Great leaders are those who lead with Honesty and Integrity."
+
+    # service item loop
+    - icon : ion-scissors #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Equip teachers success
+      content: "As leaders, we must Equip our teachers with the necessary tools to produce successful student outcomes."
+
+    # service item loop
+    - icon : ion-person-stalker #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Accountability for all
+      content: "We must be Accountable and good stewards of funds that we receive and the budgets that we develop for our systems."
+
+    # service item loop
+    - icon : ion-speakerphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Lead 
+      content: "We must Lead with strength and consistency ensuring that all students have an equal opportunity to the best education."
+
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "Saftey"
+      icon : "ion-erlenmeyer-flask"
+      color : "primary"
+      content : "My healthcare experience equips me with the knowledge needed to make sure that our students are safe. By following CDC guidelines and addressing the needs in the schools we will work to ensure the safest environment for our students and families."
+
+    # featured service item loop
+    - name : "Technology"
+      icon : "ion-wifi"
+      color : "primary-dark"
+      content : "Through partnerships with various businesses/industries, we could provide high speed internet options for our communities. This increase in technology would benefit our schools, students, and our communities thereby making communities more attractive to outside industries resulting in an increase in jobs."
+
+    # featured service item loop
+    - name : "College & Career Readiness"
+      icon : "ion-university"
+      color : "primary-darker"
+      content : "We could begin by partnering with universities and colleges that will allow our students access to their campus and local businesses that allow shadowing. I will work to highlight programs with professionals to expose our students to various types of careers. "
